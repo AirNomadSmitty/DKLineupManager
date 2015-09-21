@@ -1,0 +1,13 @@
+{
+	"name"       : "DraftKings Lineup Manager",
+	"description": "This extension will provide extra functionality to the DK Lineups page that will help with managing large amounts of lineups",
+	"version"    : "1.0",
+	"manifest_version": 2,
+
+	"content_scripts": [
+		{
+			"matches": ["https://www.draftkings.com/lineup"],
+			"js"     : ["lineupManager.js"]
+		}
+	]
+}
