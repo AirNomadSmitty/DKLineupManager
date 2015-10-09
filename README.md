@@ -10,3 +10,5 @@ Once installed, go to the DraftKings lineup page (https://www.draftkings.com/lin
 You can also enter multiple players into the input box separated by '&' such as 'kaepernick&sproles.' Full names are not required so 'kaep & sprol' would work similarly. You'll get the idea you're a smart cookie.
 
 Note that it doesn't count lineups that are entered multiple times as inflating usage numbers. This was mainly because I don't want my cash lineup that was entered 50 times to skew usage numbers for GPP entries. Every lineup counts once regardless of entry number. It works very well for my specific use case, but I'm sure there are many other scenarios where it doesn't do what you want and I'm open to working on those. Hit me with any suggestions/complaints!
+
+Oh and here's my blog where I go over cash game lineups every week: https://freemoneyfantasy.wordpress.com/
