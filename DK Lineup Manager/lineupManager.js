@@ -24,6 +24,7 @@ var init = function() {
 
 	var ownerships = document.createElement('div');
 	ownerships.style.height = "240px";
+	ownerships.style.resize = "both";
 	ownerships.style.overflowY = "scroll"
 	var ownershipsTable = document.createElement('table');
 	ownershipsTable.id = 'DKLM-ownership-table';
